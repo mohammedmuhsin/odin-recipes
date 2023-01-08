@@ -1,8 +1,17 @@
-body {
-    background-color: black;
+.index{
+    background-color: rgb(154, 110, 110);
     color: white;
     font-size: 21px;
 }
-a {
-    color: bisque;
+.button {
+    color: rgb(52, 38, 67);
+}
+.head{
+    text-align: center;
+    font-size: 100px;
+}
+.list{
+    text-align: center;
+    font-size: 70px;
+    color: rgb(167, 157, 178);
 }
